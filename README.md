@@ -82,11 +82,21 @@ To build a **strong foundation in Python for Data Science** so I can:
 ## 📁 Repository Structure
 
 ```bash
-python-data-science-learning/
-├── 
-├── 
-└── README.md
-````
+Python-learning-for-DS/
+├── 📂 Notebooks/
+│   ├── 📘 Python_intro_Totorials/
+│   │   └── 📄 A_First_Sample.ipynb
+│   ├── 📙 Sample_Mini_proj/
+│   │   ├── 📄 Automatic_file_sorter.ipynb
+│   │   └── 📄 BMI calculator project.ipynb
+│   └── 🌐 WebScaping_using_BeautufulSoup_and_Requests/
+│       ├── 📄 BeautifulSoup_and_Request.ipynb
+│       ├── 📄 Find_and_Find_all.ipynb
+│       └── 📁 Project_on_WebScraping/
+│           ├── 📊 Companies_tutorial_wiki.csv
+│           └── 📄 scaraping_data_from_real_website_+_pandas.ipynb
+└── 📄 README.md
+```
 
 ---
 
