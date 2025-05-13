@@ -1,4 +1,8 @@
-# 🐍 Python Learning for Data Science
+# Python Learning for Data Science
+
+[![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
 This repository documents my **self-learning journey in Python for Data Science**.  
 It contains a collection of **Jupyter Notebooks**, **code samples**, and **personal notes** created as I explore concepts and tools essential for working with data using Python.
